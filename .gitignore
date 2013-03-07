@@ -1,0 +1,3 @@
+*.pyc
+*~
+/webrokeit.egg-info
